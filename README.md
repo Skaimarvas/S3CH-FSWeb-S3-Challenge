@@ -88,8 +88,8 @@ Ana sayfa için sağlanan tasarım dosyasını inceleyin.
 - [x] Eksik header ve footer bölümlerini oluşturmak için HTML ve CSS'yi oluşturun.
 - [x] h1 tagiyle oluşturduğunuz sayfa başlığı [index.html](index.html) 'ye bağlantı vermelidir (link <a>).
 - [x] `Menü` menü elemanı [menu.html](menu.html) sayfasına bağlantı vermelidir.
-- [ ] Header'e [FontAwesome](https://fontawesome.com/search)'la oluşturacağınız Facebook, Twitter, and Instagram sosyal medya ikonları ekleyin. _NOT: _ ikonların şu isimleri içerdiğine emin olun: "facebook", "twitter", ve "instagram" .
-- [ ] Ana sayfa düzeninin geri kalanını verilen tasarıma uyacak şekilde oluşturun. Çoğu zaten uygulandı; yalnızca header, footer ve galeri bölümlerini düzeltmen gerekir.
+- [x] Header'e [FontAwesome](https://fontawesome.com/search)'la oluşturacağınız Facebook, Twitter, and Instagram sosyal medya ikonları ekleyin. _NOT: _ ikonların şu isimleri içerdiğine emin olun: "facebook", "twitter", ve "instagram" .
+- [x] Ana sayfa düzeninin geri kalanını verilen tasarıma uyacak şekilde oluşturun. Çoğu zaten uygulandı; yalnızca header, footer ve galeri bölümlerini düzeltmen gerekir.
       ​
       Renkler ve fontlar:
       Açık text: rgb(225, 239, 230);
@@ -105,12 +105,12 @@ Menü sayfası için sağlanan tasarım dosyalarını inceleyin.
 ​
 
 - [x] Ana sayfa header ve footer kopyalayıp menü sayfasına yapıştırın.
-- [ ] Header resmini menü sayfası resmiyle güncelleyin.
-- [ ] Menü için bir article öğesi ve içinde bir div kullanın; div'in class'ı "menu-container" olarak düzenleyin
-- [ ] Tüm bölümler için bir container oluşturun (örnek. yemekler ya da mezeler) class'ları "menu-section" olarak düzenleyin
-- [ ] Tüm menü elemanları için bir container oluşturun (örnek. soda ya da hamburger) ve class'larını "menu-item" olarak oluşturun
+- [x] Header resmini menü sayfası resmiyle güncelleyin.
+- [x] Menü için bir article öğesi ve içinde bir div kullanın; div'in class'ı "menu-container" olarak düzenleyin
+- [x] Tüm bölümler için bir container oluşturun (örnek. yemekler ya da mezeler) class'ları "menu-section" olarak düzenleyin
+- [x] Tüm menü elemanları için bir container oluşturun (örnek. soda ya da hamburger) ve class'larını "menu-item" olarak oluşturun
 - [ ] Tüm fiyatlara ve menü başlıklarına H4 ekleyin, her menü elemanı için 2 adet h4 olacak.
-- [ ] Tüm menü elemanı açıklamaları için p etiketi ekleyin, ikinci satırdaki açıklama da [örnek: "(v)"] kendi p etiketine sahip olacaktır.
+- [x] Tüm menü elemanı açıklamaları için p etiketi ekleyin, ikinci satırdaki açıklama da [örnek: "(v)"] kendi p etiketine sahip olacaktır.
       ​
       desktop için renkler ve fontlar:
       Açık text: rgb(225, 239, 230);
