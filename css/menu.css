@@ -396,13 +396,17 @@ button {
   }
 
   .menu h2 {
-    border-bottom: 1rem solid #fff;
-    font-size: 4rem;
+    border-bottom: 2rem solid black;
+    padding-top: 5rem;
+    font-size: 5rem;
     margin: 0 5rem;
   }
 
   .menu-list > h4 {
-    border: 2px solid #fff;
+    border: 5px solid black;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 1rem;
   }
 
   .menu-list div {
@@ -412,7 +416,10 @@ button {
   }
 
   .menu-list p {
-    border-bottom: 3px solid #fff;
+    border-bottom: 3px solid black;
+    text-align: center;
+    margin: 0 7rem;
+    margin-bottom: 1rem;
   }
 
   .menuler {
@@ -424,7 +431,7 @@ button {
   }
 
   .opac {
-    background-color: #fff;
+    background-color: antiquewhite;
   }
 
   /* footer section */
@@ -434,6 +441,7 @@ button {
     font-size: 2rem;
     display: flex;
     flex-direction: column;
+    /* align-content: space-between; */
   }
 
   footer ul {
@@ -444,19 +452,26 @@ button {
   form {
     display: flex;
     flex-direction: column;
+    align-items: center;
     width: 98%;
     /* Uzun bir süre sonra birleştirdim */
+  }
+
+  button {
+    width: 100%;
   }
 
   .signup {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 1rem;
+    margin: 0 auto;
+    width: 90%;
   }
 
   .signup p {
     margin-bottom: 2rem;
+    text-align: center;
   }
   #copyright {
     text-align: center;
@@ -466,5 +481,6 @@ button {
 
   .alt-section {
     margin-top: 2rem;
+    margin: 0 auto;
   }
 }
